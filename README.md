@@ -1,2 +1,2 @@
-# boston_housing
-Machine learning model to predict Boston housing price
+# machine-learning
+Machine learning projects
